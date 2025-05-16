@@ -1,13 +1,11 @@
-# EngEx
-Engineer Experience 工程师体验
-
-## WHAT 什么是工程师体验
-
-工程师体验，即 Engineer Experience 
+# EngEx 
+Engineer Experience（EngEx），即工程师体验，关注工程师在工作过程中，对于所触及或期望触及的流程、工具、产品与服务，以及自身与组织和系统之间关系等的整体感知、认知和反馈。
 
 ## WHY 为什么要关注和重视工程师体验？
 TODO
 
+## WHAT 如何定义工程师体验
+TODO
 
 ## HOW 如何设计、度量和持续改善工程师体验？
 TODO
